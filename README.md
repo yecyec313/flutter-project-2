@@ -1,16 +1,2 @@
-# flutter_application_aliyar
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# flutter-project-2
+Social Project: This is a pilot project to discuss front-end design, covering complex aspects of front-end design such as composing scroll views, designing the appearance of the login page, navigation and page optimization, etc (Don't forget the flutter pub get command and Run the program with a strong VPN).💎
